@@ -111,6 +111,12 @@ We studied the prompting patterns used by Claude Code in practice. We identified
 
 No text was copied from Anthropic's codebase. All content is original.
 
+## Give Your Agent Codebase Context
+
+The prompts in this repo tell an agent *how to behave*. But a coding agent also needs to *understand the codebase* it's working in. [RepoWise](https://github.com/repowise-dev/repowise) is an open-source codebase documentation engine that generates structured wikis from any repo, keeps them current as code changes, and exposes everything through an MCP server. Instead of your agent reading 40 raw source files, it calls `get_context()` and gets architecture docs, dependency graphs, ownership data, and decision records in one shot.
+
+If you're building agents using the patterns from this repo, RepoWise gives them the codebase intelligence to actually be effective: [github.com/repowise-dev/repowise](https://github.com/repowise-dev/repowise)
+
 ## Legal
 
 - [DISCLAIMER.md](./DISCLAIMER.md) — independent authorship, nominative fair use, non-affiliation, DMCA policy.
