@@ -33,7 +33,7 @@ We studied how Claude Code behaves in practice -- how it structures safety rules
 Not affiliated with Anthropic. See [DISCLAIMER.md](./DISCLAIMER.md).
 
 > **Note**
-> ⭐ Star this repository to stay updated. We analyze each Claude Code release and update the patterns here.
+> ⭐ Star this repository to if you find the collection useful.
 
 ## What's Inside
 
