@@ -1,6 +1,6 @@
 # Claude Code Prompts — Independently Authored Prompt Collection
 
-> Independently written prompt templates for building AI coding agents, inspired by patterns observed in Claude Code. System prompts, tool prompts, agent prompts, memory management, and multi-agent coordination.
+ Independently written prompt templates for building AI coding agents, inspired by patterns observed in Claude Code codebase. System prompts, tool prompts, agent prompts, memory management, and multi-agent coordination.
 
 ## Check out [RepoWise](https://github.com/repowise-dev/repowise)
 
